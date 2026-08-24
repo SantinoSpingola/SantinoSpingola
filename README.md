@@ -8,7 +8,7 @@ Trabajo en **Argensys IT Services** integrando Bitrix24 con ERPs y automatizando
 
 📍 Buenos Aires, Argentina · ✉️ santinospingola12@gmail.com
 
-🔗 **[Portfolio](https://portfolio-santino.vercel.app)** · **[CV](https://portfolio-santino.vercel.app/cv/)**
+🔗 **[Portfolio](https://portfolio.spingola.com.ar)** · **[CV](https://portfolio.spingola.com.ar/cv/)**
 
 ---
 
