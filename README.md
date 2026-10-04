@@ -1,14 +1,11 @@
 # Santino Spingola
 
-**Construyo los sistemas con los que trabaja un negocio, y los conecto entre sí.**
+**Desarrollo de software · Arquitectura de sistemas · Automatización e IA**
 
-CRMs, plataformas de cursos, sistemas de gestión, agentes de IA por WhatsApp e integraciones con
-ERPs y facturación electrónica. Llevo cada sistema de punta a punta: relevo el proceso con quien lo
-va a usar, diseño la arquitectura, lo desarrollo, lo despliego en mi propia infraestructura y lo
-mantengo en producción.
+Diseño y construyo sistemas de punta a punta: entiendo el problema, defino la arquitectura, lo
+desarrollo, lo despliego y lo mantengo en producción.
 
-Trabajo en **Argensys IT Services** integrando Bitrix24 con ERPs y automatizando procesos, y con
-**Spingola** desarrollo sistemas a medida para negocios.
+Trabajo en **Argensys IT Services** y desarrollo proyectos propios con **Spingola**.
 
 📍 San Isidro, Buenos Aires · 🔗 [portfolio](https://portfolio.spingola.com.ar) ·
 [CV](https://portfolio.spingola.com.ar/cv/) · ✉️ santinospingola12@gmail.com
